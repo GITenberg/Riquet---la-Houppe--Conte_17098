@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Perrault
     - http://en.wikipedia.org/wiki/Charles_Perrault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17098#Riquet---la-Houppe--Conte
 gutenberg_bookshelf: FR Contes
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
