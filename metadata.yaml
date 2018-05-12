@@ -1,0 +1,35 @@
+_repo: Riquet---la-Houppe--Conte_17098
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ripart, G.
+    gutenberg_agent_id: '7138'
+    url: http://www.gutenberg.org/2009/agents/7138
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17098'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: 'Riquet à la Houppe: Conte'
+url: http://www.gutenberg.org/ebooks/17098
